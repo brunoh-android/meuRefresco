@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MeuRefresco</string>
+    <string name="hint_peso">Digite Seu Peso(Kg)</string>
+    <string name="hint_idade">Digite Sua Idade</string>
+    <string name="text_button">Calcular Ingestão Diaria</string>
+    <string name="text_button_lembrete">Definir Lembrete</string>
+    <string name="text_button_alarme">Salvar Alarme</string>
+    <string name="text_hora">00</string>
+    <string name="text_minuto">00</string>
+    <string name="text_dois_pontos">:</string>
+    <string name="toast_informe_peso">Informe seu Peso</string>
+    <string name="toast_informe_idade">Informe sua Idade</string>
+    <string name="text_dialog">Deseja excluir todos os dados existentes?</string>
+    <string name="titulo_dialog">Redefinir dados?</string>
+    <string name="alarme_menssagem">Hora de beber agua!</string>
+
+
+
+
+</resources>
